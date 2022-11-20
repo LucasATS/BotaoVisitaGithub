@@ -1,1 +1,4 @@
-alert('TESTE');
+const teste = () => {
+    alert('TESTE');
+
+}
