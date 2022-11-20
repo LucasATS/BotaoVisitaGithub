@@ -25,7 +25,7 @@ const modelo3 = (link) => (`<!-- VISITE MINHA PÁGINA NO GITHUB :D -->
         ⭐ <b>Give a star</b></h3>
     <a href="${link}"
         class="carimbo-github">
-        <img style="width: 60px;" src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/BotaoVisitaGithub.js">
+        <img style="width: 60px;" src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/svg/btn_github_1.svg">
     </a>
 </span>
 `);
@@ -45,7 +45,7 @@ const modelo2 = (link) => (`<!-- VISITE MINHA PÁGINA NO GITHUB :D -->
         ⭐ <b>Give a star</b></h3>
     <a href="${link}"
         class="carimbo-github">
-        <img style="width: 60px;" src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/BotaoVisitaGithub.js">
+        <img style="width: 60px;" src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/svg/btn_github_1.svg">
     </a>
 </span>
 `);
@@ -59,7 +59,7 @@ const modelo1 = (link) => (`<!-- VISITE MINHA PÁGINA NO GITHUB :D -->
 <a title="Visite minha página no github" 
     href="${link}"
     class="carimbo-github-link">
-    <img class="carimbo-github-img" src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/BotaoVisitaGithub.js">
+    <img class="carimbo-github-img" src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/svg/btn_github_1.svg">
 </a>
 `);
 

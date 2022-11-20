@@ -18,7 +18,7 @@
 
 #### Versão 2
 
-![Exemplo](https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/img/Exemplo%20btn%20visita%20github.jpeg)
+![Exemplo](https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/img/Exemplo%20btn%20visita%20github.jpeg)
 
 > subistitua '< LINK DA PAGINA AQUI >' por algum link ou pelo repostirório do projeto.
 
