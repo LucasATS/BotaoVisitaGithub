@@ -6,6 +6,8 @@
 
 ### Usando API
 
+[DEMO](https://lucasats.github.io/BotaoVisitaGithub/)
+
 > Só copiar e colar o código no HTML 😎.
 
     <BotaoVisitaGithub model="modelo3" link="#/LINK_AQUI"></BotaoVisitaGithub>
