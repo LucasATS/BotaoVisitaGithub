@@ -67,6 +67,8 @@ window.addEventListener("load",(ev)=>{
     btn = document.getElementsByTagName('BotaoVisitaGithub')[0];
     let model = btn.getAttribute("model");
     let link =  btn.getAttribute("link");
-    eval(`document.body.innerHTML += ${model}(link)`);
+
+    eval(`document.body.insertAdjacentHTML('afterend', ${model}(link))`);
+
     btn.remove();
 })

@@ -1,4 +1,0 @@
-const teste = () => {
-    alert('TESTE');
-
-}

@@ -1,16 +1,15 @@
 # Sistema de botão para visitar página do github
 
-> Versão atual: 3.
-> Experimente o 'modelo3'.
-
 ## __📂 PLAY__
+
+> Versão atual: 3.
 
 ### Usando API
 
 > Só copiar e colar o código no HTML 😎.
 
-    <BotaoVisitaGithub model="modelo3" link="#LINK_AQUI">
-    <script src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/BotaoVisitaGithub.js"></script>
+    <BotaoVisitaGithub model="modelo3" link="#/LINK_AQUI"></BotaoVisitaGithub>
+    <script src="https://cdn.jsdelivr.net/gh/LucasATS/BotaoVisitaGithub@main/BotaoVisitaGithub.js"></script>
 
 ### Modo manual
 
