@@ -68,11 +68,7 @@ window.addEventListener("load",(ev)=>{
     let model = btn.getAttribute("model");
     let link =  btn.getAttribute("link");
 
-    // eval(`document.body.insertAdjacentHTML('afterend', ${model}(link))`);
+    eval(`document.body.insertAdjacentHTML('afterend', ${model}(link))`);
 
     btn.remove();
 })
-
-const play = () => {
-
-}
