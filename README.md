@@ -9,7 +9,7 @@
 > Só copiar e colar o código no HTML 😎.
 
     <BotaoVisitaGithub model="modelo3" link="#/LINK_AQUI"></BotaoVisitaGithub>
-    <script src="https://cdn.jsdelivr.net/gh/LucasATS/BotaoVisitaGithub@main/BotaoVisitaGithub.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/LucasATS/BotaoVisitaGithub@a8a199bbd7adaee6d7e7810dcd00ab9b533334c0/BotaoVisitaGithub.js"></script>
 
 ### Modo manual
 

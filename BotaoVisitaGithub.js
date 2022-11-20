@@ -1,3 +1,5 @@
+// AUTOR: LUCAS ALMEIDA TIBURTINO DA SILVA
+
 let link = '';
 let model;
 
