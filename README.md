@@ -58,10 +58,8 @@
 
 ---
 
-<!--
 ## __❤ AGRADECIMENTOS__
-[@<NOME>](<LINK>) "<MENSAGEM>"
--->
+[@ThalesTayson](https://github.com/ThalesTayson) "Eu dei um Help 😌"
 
 ## __🛠 TECNOLOGIAS__ 
 
