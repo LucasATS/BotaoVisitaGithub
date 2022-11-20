@@ -5,18 +5,18 @@
 
 ## __📂 PLAY__
 
-## Usando API
+### Usando API
 
 > Só copiar e colar o código no HTML 😎.
 
     <BotaoVisitaGithub model="modelo3" link="#LINK_AQUI">
     <script src="https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/main/BotaoVisitaGithub.js"></script>
 
-## Modo manual
+### Modo manual
 
 > Suporta até a versão 2!
 
-### Versão 2
+#### Versão 2
 
 ![Exemplo](https://raw.githubusercontent.com/LucasATS/BotaoVisitaGithub/img/Exemplo%20btn%20visita%20github.jpeg)
 
@@ -41,7 +41,7 @@
         </a>
     </span>
 
-## Versão 1
+#### Versão 1
 
     <!-- VISITE MINHA PÁGINA NO GITHUB :D -->
     <style> 
@@ -55,6 +55,7 @@
         <img class="carimbo-github-img" src="https://raw.githubusercontent.com/LucasATS/LucasATS/main/src/svg/github.svg">
     </a>
 
+---
 
 <!--
 ## __❤ AGRADECIMENTOS__
